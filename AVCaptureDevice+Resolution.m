@@ -2,7 +2,7 @@
 //  AVCaptureDevice+Resolution.m
 //  ARAPP-OpenStandard
 //
-//  Created by baidu on 2019/6/28.
+//  Created by Asa on 2019/6/28.
 //  Copyright © 2019 Asa. All rights reserved.
 //
 
